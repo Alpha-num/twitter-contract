@@ -14,3 +14,5 @@ This is a basic decentralized Twitter-like application built on the Ethereum blo
 - **Foundry**: For compiling, deploying, and testing the smart contract.
 - **React.js**: For the frontend user interface.
 - **Ethers.js**: For interacting with the smart contract from the frontend.
+
+**The Frontend code is provided in another REPO**
